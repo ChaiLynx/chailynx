@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is a WIP! Don't worry, I'll have something new here!
 <!--
 **ChaiLynx/chailynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
